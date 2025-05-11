@@ -4,7 +4,7 @@
 Desarrollador web apasionado por el backend y el diseño de soluciones dinámicas.
 
 🎓 Estudiante de informática enfocado en tecnologías web  
-🏋️‍♂ Gymrat
+🏋️‍♂ Gymrat      
 📍 CDMX  
 
 
