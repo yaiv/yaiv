@@ -1,12 +1,12 @@
 <!-- Banner o imagen opcional -->
-<img src="https://i.imgur.com/s8O3FeD.gif" width="100%" alt="Banner" />
 
-# ¡Hola! Soy Yaiv 👋
+# ¡Hola! Soy Yair Guerra (Yaiv) 👋
 Desarrollador web apasionado por el backend y el diseño de soluciones dinámicas.
 
 🎓 Estudiante de informática enfocado en tecnologías web  
 🏋️‍♂ Gymrat
-📍  CDMX
+📍 CDMX  
+
 
 ---
 
@@ -57,10 +57,10 @@ Desarrollador web apasionado por el backend y el diseño de soluciones dinámica
 ## 🎯 Hobbies y más de mí
 
 - 💪 Me gusta ir al gym
-- 🎮 Juego en mis tiempos libres
+- 🎶 Me entretengo haciendo playlist en spoti
 - 🍔 Emprendiendo con **Simios Burger**
 
 ---
 
 ### ¡Gracias por pasarte por aquí!  
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200px" />
+<a> https://www.instagram.com/yaiv.g/ </a>
