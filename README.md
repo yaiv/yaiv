@@ -4,8 +4,7 @@
 
 🎓 Estudiante de informática enfocado en desarrollo web  
 💻 Actualmente aprendiendo aprendiendo diversas tecnologias como: HTML, CSS, SASS, Workflows, JavaScript, Fetch (Antes AJAX), PHP, POO - MVC, MySQL - SQL y API's  
-🏋️‍♂ Gymrat  
-👾 Melomano  
+🏋️‍♂ Intento de gymrat    
 📍 CDMX  
 
 
