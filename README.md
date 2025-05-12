@@ -1,9 +1,9 @@
 <!-- Banner o imagen opcional -->
 
 # ¡Hola! Soy Yair Guerra (Yaiv) 👋
-Desarrollador web apasionado por el backend y el diseño de soluciones dinámicas.
 
-🎓 Estudiante de informática enfocado en tecnologías web  
+🎓 Estudiante de informática enfocado en desarrollo web  
+💻 Actualmente aprendiendo aprendiendo diversas tecnologias como: HTML, CSS, SASS, Workflows, JavaScript, Fetch (Antes AJAX), PHP, POO - MVC, MySQL - SQL y API's
 🏋️‍♂ Gymrat      
 📍 CDMX  
 
@@ -45,6 +45,7 @@ Desarrollador web apasionado por el backend y el diseño de soluciones dinámica
 ---
 
 ## 📆 Actividad reciente
+Creo que aprender un poco cada día marca la diferencia...
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yaiv&theme=react-dark" />
@@ -58,7 +59,7 @@ Desarrollador web apasionado por el backend y el diseño de soluciones dinámica
 
 - 💪 Me gusta ir al gym
 - 🎶 Me entretengo haciendo playlist en spoti
-- 🍔 Emprendiendo con **Simios Burger**
+- 🐕 Me gusta salir con mis perritos
 
 ---
 
