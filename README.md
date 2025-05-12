@@ -2,10 +2,12 @@
 
 # ¡Hola! Soy Yair Guerra (Yaiv) 👋
 
-🎓 Estudiante de informática enfocado en desarrollo web  
+🎓 Estudiante de informática enfocado en desarrollo web
 💻 Actualmente aprendiendo aprendiendo diversas tecnologias como: HTML, CSS, SASS, Workflows, JavaScript, Fetch (Antes AJAX), PHP, POO - MVC, MySQL - SQL y API's
-🏋️‍♂ Gymrat      
-📍 CDMX  
+🏋️‍♂ Gymrat
+👾 Melomano
+📍 CDMX
+
 
 
 ---
