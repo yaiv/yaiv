@@ -4,6 +4,7 @@
 
 🎓 Estudiante de informática enfocado en desarrollo web  
 💻 Actualmente aprendiendo diversas tecnologias como: HTML, CSS, SASS, Workflows, JavaScript, Fetch (Antes AJAX), PHP, POO - MVC, MySQL - SQL y API's  
+🖥  Proximas tecnologias a dominar: stack tecnológico que incluye React, Hooks y State, TypeScript, Zod, Zustand, React Query, Next.js, React Router, MERN y PERN.   
 🏋️‍♂ Intento de gymrat    
 📍 CDMX  
 
